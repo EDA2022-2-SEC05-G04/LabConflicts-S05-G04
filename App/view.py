@@ -93,6 +93,9 @@ def lastBook(control):
     """
     Devuelve el último libro cargado
     """
+    last = lastBook(control)
+    print("Último libro cargado:\n" + str(last) + "\n")
+
     pass
 
 
