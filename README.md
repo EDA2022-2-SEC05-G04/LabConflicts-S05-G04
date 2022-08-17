@@ -34,7 +34,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 
 1. Estudiante 1: Alejandro Hoyos Mogollón
 2. Estudiante 2: Juan Esteban Aguirre Olarte
-3. Estudiante 3: Juan Andres Carrasquilla Gutierrez
+3. Estudiante 3: Juan Andres Carrasquilla Gutiérrez
 
 [Back to top](#sample-conflicts)
 
